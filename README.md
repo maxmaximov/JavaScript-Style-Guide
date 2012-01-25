@@ -19,7 +19,7 @@ http://en.wikipedia.org/wiki/Indent_style#Variant:_1TBS.
 
 * Ширина отступа: 4 пробела (символ табуляции не используем).
 
-`` javascript
+``` javascript
 if (x < 0) {
     puts("Negative");
     negative(x);
@@ -27,7 +27,7 @@ if (x < 0) {
     puts("Non-negative");
     nonnegative(x);
 }
-``
+```
 
 Пробелы
 -------
@@ -41,12 +41,12 @@ if (x < 0) {
 * Стиль: CamelCase
 http://en.wikipedia.org/wiki/CamelCase#Current_usage_in_computing.
 
-`` javascript
+``` javascript
 var testVariable = true;
  
 function doSomeDirtyStuff (firstParam, secondParam) {
 };
-``
+```
 
 * Имена классов: с большой буквы.
 
@@ -54,7 +54,7 @@ function doSomeDirtyStuff (firstParam, secondParam) {
 
 * «Приватные» методы и свойства обьектов: префикс «_».
 
-`` javascript
+``` javascript
 var sidebar = new Sidebar();
 var instanceOfMyClass = new MyClass();
 
@@ -64,7 +64,7 @@ var object = {
         this._privateProperty = param;
     }
 };
-``
+```
 
 Ширина строки
 -------------
