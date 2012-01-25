@@ -92,5 +92,5 @@ var object = {
 Ссылки
 ------
 
-http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
-http://docs.jquery.com/JQuery_Core_Style_Guidelines
+* http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+* http://docs.jquery.com/JQuery_Core_Style_Guidelines
