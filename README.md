@@ -52,7 +52,7 @@ function doSomeDirtyStuff (firstParam, secondParam) {
 
 * Имена функций (методов) и переменных (свойств): с маленькой буквы.
 
-* «Приватные» методы и свойства обьектов: префикс «_».
+* «Приватные» методы и свойства: префикс «_».
 
 ``` javascript
 var sidebar = new Sidebar();
